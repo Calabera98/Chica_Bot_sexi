@@ -11,7 +11,7 @@
 <a href="https://facebook.com/groups/872989990425789/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-<a href="https://www.youtube.com/@elrebelde.21">
+<a href="https://www.youtube.com/@informaticsecurity5309">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 <a href="https://www.tiktok.com/@lolibot_?_t=8ge2zeRZ04r&_r=1" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
@@ -22,7 +22,7 @@
     
 ### `👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <p align="center">
-<a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
+<a href="https://github.com/Calabera98/Chica_Bot_sexi"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
     
 <a href="wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -57,7 +57,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
 ```
 ```bash
-git clone https://github.com/elrebelde21/NovaBot-MD && cd NovaBot-MD && yarn && npm install
+git clone https://github.com/Calabera98/Chica_Bot_sexi && cd Chica_Bot_sexi && yarn && npm install
 ```
 ```bash
 npm start
@@ -96,14 +96,14 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 - Canal sobre informacion del host : [`https://whatsapp.com/channel/0029Va8ZD6O3mFXxTPl1m13A`](https://whatsapp.com/channel/0029Va8ZD6O3mFXxTPl1m13A)
 - Dashboard: [`https://dash.vortexuscloud.com`](https://dash.vortexuscloud.com)
 - Panel: [`https://panel.vortexuscloud.com`](https://panel.vortexuscloud.com)
-- Dudas UNICAMENTE SOBRE EL HOST: [`wa.me/258858119033`](wa.me/258858119033) (Creador: Mauro) 
-- Tutorial - Crea una cuenta en la Dashboard: [`https://youtu.be/U3CEj0OlB9U?si=IMQAcGfGgYOqqVyZ`](https://youtu.be/U3CEj0OlB9U?si=IMQAcGfGgYOqqVyZ)
+- Dudas UNICAMENTE SOBRE EL HOST: [`wa.me/51926328073`](wa.me/258858119033) (Creador: Chica Bot Sexi by informatic) 
+- Tutorial - Crea una cuenta en la Dashboard: [`https://www.youtube.com/@informaticsecurity5309`](https://youtu.be/U3CEj0OlB9U?si=IMQAcGfGgYOqqVyZ)
 
 ------------------ 
 
 ## `𝙴𝙳𝙸𝚃𝙾𝚁 𝚈 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃`
 
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="250" height="250" alt="elrebelde21"/></a>
+<a href="https://github.com/Calabera98/Chica_Bot_sexi"><img src="https://imgur.com/KVU5jSR.jpg" width="250" height="250" alt="Informatic"/></a>
 
 ## `👑 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁𝙴𝚂 👑`
 

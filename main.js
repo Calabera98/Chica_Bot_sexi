@@ -509,7 +509,7 @@ conn.sendPresenceUpdate('composing', m.chat)
 await m.reply(`${pickRandom(['Si amigo todo bien, vite', 'Todo bien capo y tu 😎'])}`)} 
 if (budy.includes(`Buenos dias`)) {
 conn.sendPresenceUpdate('composing', m.chat)
-m.reply(`${pickRandom(['Buenos Dias trolos de mierda', '*Buen dias mi amor 😘*', '*Buenos Dias hermosa mañana 🥰*'])}`)}  
+m.reply(`${pickRandom(['Buenos Dias nena', '*Buen dias mi amor 😘*', '*Buenos Dias hermosa mañana 🥰*'])}`)}  
 if (budy.includes(`autodestruction`)) { 
 let e = fs.readFileSync('./src/autodestruction.webp')
 let or = ['texto', 'sticker'];
