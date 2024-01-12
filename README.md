@@ -8,9 +8,6 @@
 <a href="#"><img title="The-LoliBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <a href="#"><img title="The-LoliBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 <div align="center">
-<a href="https://facebook.com/groups/872989990425789/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
 <a href="https://www.youtube.com/@informaticsecurity5309">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
@@ -84,20 +81,11 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ------------------ 
 
-###  🚀 VORTEXUSCLOUD HOST
-[![blog](https://img.shields.io/badge/Vortexuscloud-NovaBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/Xp2jRbG_v8o?si=nSAj4vUdz9tS31pO)
-> Activar NovaBot-MD 24/7 en Vortexuscloud Host
-
 <a href="https://vortexuscloud.com"><img src="https://telegra.ph/file/4bd3d8d14e5683073d4f3.jpg" height="125px"></a>
-### vortexus cloud
+### INFORMATIC SECURITY
 
-- Pagina Oficial: [`https://vortexuscloud.com`](https://vortexuscloud.com)
-- Canal sobre informacion del host : [`https://whatsapp.com/channel/0029Va8ZD6O3mFXxTPl1m13A`](https://whatsapp.com/channel/0029Va8ZD6O3mFXxTPl1m13A)
-- Dashboard: [`https://dash.vortexuscloud.com`](https://dash.vortexuscloud.com)
-- Panel: [`https://panel.vortexuscloud.com`](https://panel.vortexuscloud.com)
-- Dudas UNICAMENTE SOBRE EL HOST: [`wa.me/51926328073`](wa.me/258858119033) (Creador: Chica Bot Sexi by informatic) 
-- Tutorial - Crea una cuenta en la Dashboard: [`https://www.youtube.com/@informaticsecurity5309`](https://youtu.be/U3CEj0OlB9U?si=IMQAcGfGgYOqqVyZ)
+- Dudas UNICAMENTE SOBRE EL HOST: [`wa.me/51926328073`](wa.me/51926328073) (Creador: Chica Bot Sexi by informatic) 
+- Canal de youtube -: [`https://www.youtube.com/@informaticsecurity5309`](https://youtu.be/U3CEj0OlB9U?si=IMQAcGfGgYOqqVyZ)
 
 ------------------ 
 
