@@ -2,11 +2,11 @@
 
 
 <p align="center">
-<a href="#"><img title="NovaBot-MD" src="https://telegra.ph/file/343e60521da533ea8a2d3.jpg/badge/a -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
+<a href="#"><img title="NovaBot-MD" src="https://imgur.com/DvgVqzj.jpg/badge/a -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="The-LoliBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-<a href="#"><img title="The-LoliBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
+<a href="#"><img title="The-Chica Bot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="The-Chica BOT" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DI	POSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 <div align="center">
 <a href="https://www.youtube.com/@informaticsecurity5309">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
@@ -22,28 +22,13 @@
 <a href="https://github.com/Calabera98/Chica_Bot_sexi"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
     
-<a href="wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="wa.me/51926328073" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 ### Quiere probar la funciones del bot, antes de instalar, probar el bot aquí
 
 [![Grupos](https://img.shields.io/badge/Grupos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DAm4ov8WQ7G9SgBJomhJHH) 
 
 ------------------ 
-
-### `🟢 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙴𝙽 𝚁𝙴𝙿𝙻𝙸𝚃`
-
-[![blog](https://img.shields.io/badge/Replit-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/SMjCcfuyWQE)
-
-[![Run on Repl.it](https://repl.it/badge/github/elrebelde21/NovaBot-MD)](https://repl.it/github/elrebelde21/NovaBot-MD) 
-
------------------- 
-
-## 𝙰𝙲𝚃𝙸𝚅𝙰 𝙴𝙻 𝚃𝙴𝚁𝙼𝚄𝚇
-👇 Pasos para instalar el bot via termux 👇
-
-[![blog](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/OhbJjp0L2QA?si=LUTw6tIkQmP7XOhp)
 
 [`💫 Instalar termux clic aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
 
