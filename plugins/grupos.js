@@ -109,7 +109,7 @@ if (command == 'add' || command == 'agregar' || command == 'invitar') {
 if (!m.isGroup) return m.reply(info.group);  
 if (!isBotAdmins) return m.reply(info.botAdmin)
 if (!isGroupAdmins) return m.reply(info.admin)
-if (!text) return m.reply(`${lenguaje.grupos.text13}\n${prefix}add +5244446577`)
+if (!text) return m.reply(`${lenguaje.grupos.text13}\n${prefix}add +51926328073`)
 if (text.includes('+')) return m.reply(lenguaje.grupos.text14)
 let group = m.chat
 let link = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group)

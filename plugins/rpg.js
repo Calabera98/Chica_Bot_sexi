@@ -242,7 +242,7 @@ global.db.data.users[m.sender].lastclaim = new Date * 1
 }
 
 if (command == 'perfil') {
-avatar = await conn.profilePictureUrl(who, 'image').catch((_) => 'https://telegra.ph/file/24fa902ead26340f3df2c.png')
+avatar = await conn.profilePictureUrl(who, 'image').catch((_) => 'https://imgur.com/DvgVqzj.jpg')
 let { money, exp, role, limit, level, registered, age} = global.db.data.users[m.sender]
 conn.sendMessage(m.chat, { image: { url: avatar }, caption: `${lenguaje.rpg.pp}
 

@@ -34,7 +34,7 @@ m.reply('1 ' + info.limit)}
 if (command == 'blackpink') {
 sendImageAsUrl("https://delirius-image-random.vercel.app/api/all")}
 if (command == 'navidad') {
-const res = (await axios.get(`https://raw.githubusercontent.com/elrebelde21/NovaBot-MD/master/src/randow/navidad.json`)).data;
+const res = (await axios.get(`https://raw.githubusercontent.com/Calabera98/Chica_Bot_sexi/master/src/randow/navidad.json`)).data;
 const result = await res[Math.floor(res.length * Math.random())];
 sendImageAsUrl(result, `${command}`)}}
 
