@@ -574,7 +574,7 @@ conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`Admin party`)) {
 const vn = './media/fiesta.mp3' 
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Fiesta del admin`)) {
+if (budy.startsWith(`Fiesta del admin`) || budy.startsWith(`fiesta del admin`)) {
 const vn = './media/admin.mp3'
 conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`Viernes`)) {
@@ -601,38 +601,38 @@ conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`Pasen sexo`)) {
 const vn = './media/fernan.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Paraguayo`)) {
-const vn = './media/gaspi11.mp3'
+if (budy.startsWith(`amigo`) || budy.startsWith(`amigoo`) || budy.startsWith(`Amigo`) || budy.startsWith(`Amigoo`) || budy.startsWith(`amiguito`) || budy.startsWith(`compañero`) || budy.startsWith(`Compañero`) || budy.startsWith(`mano`) || budy.startsWith(`Mano`)) {
+const vn = './media/amigo.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Venezolano`)) {
-const vn = './media/gaspi10.mp3'
+if (budy.startsWith(`pago`) || budy.startsWith(`emprestame`) || budy.startsWith(`yape`) || budy.startsWith(`bcp`) || budy.startsWith(`cuenta`) || budy.startsWith(`Yape`) || budy.startsWith(`Emprestame`) || budy.startsWith(`CCI`) || budy.startsWith(`te devuelvo`) || budy.startsWith(`recarga`) || budy.startsWith(`te yapeo`) || budy.startsWith(`plin`) || budy.startsWith(`tienes yape`) || budy.startsWith(`deposito`) || budy.startsWith(`transferencia`) || budy.startsWith(`Yape`) || budy.startsWith(`Plin`)) {
+const vn = './media/pago.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Gaspi corte`)) {
-const vn = './media/gaspi12.mp3'
+if (budy.startsWith(`rodrigo`) || budy.startsWith(`Rodrigo`) || budy.startsWith(`rodrigoo`) || budy.startsWith(`rodrigooo`) || budy.startsWith(`rodri`) || budy.startsWith(`Rodri`) || budy.startsWith(`sobrino`) || budy.startsWith(`hijo`) || budy.startsWith(`Hijo`)) {
+const vn = './media/rodrigo_hola.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Gaspi buenos dias`)) {
-const vn = './media/gaspi13.mp3'
+if (budy.startsWith(`buenos dias`) || budy.startsWith(`Buenos dias`) || budy.startsWith(`buenos dìas`)  ) {
+const vn = './media/Buenos-dias-2.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Enano`)) {
-const vn = './media/gaspi14.mp3'
+if (budy.startsWith(`como estas`) || budy.startsWith(`Como estas`) || budy.startsWith(`còmo estas?`) || budy.startsWith(`como stas`) || budy.startsWith(`que tal`) || budy.startsWith(` que tal como estas`) || budy.startsWith(`como estas?`) || budy.startsWith(`que tal?`) || budy.startsWith(`todo bien?`) || budy.startsWith(`todo bien?`)) {
+const vn = './media/como_estas.mp3'
 conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`Buenas noches`)) {
 const vn = './media/gaspi15.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Peruano`)) {
-const vn = './media/gaspi16.mp3'
+if (budy.startsWith(`Holaa`) || budy.startsWith(`hola`) || budy.startsWith(`Hola`) || budy.startsWith(`ola`) || budy.startsWith(`holi`) || budy.startsWith(`HOLA`) || budy.startsWith(`Holi`) || budy.startsWith(`hola compañeros`) || budy.startsWith(`Hola compañeros`)) {
+const vn = './media/calabera_hola.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Alto temazo`)) {
-const vn = './media/sombare14.mp3'
+if (budy.startsWith(`okey`) || budy.startsWith(`ok`) || budy.startsWith(`Okey`) || budy.startsWith(`okay`) || budy.startsWith(`Ok`) || budy.startsWith(`Okey`) || budy.startsWith(`no`) || budy.startsWith(`si`) || budy.startsWith(`yes`) || budy.startsWith(`Si`) || budy.startsWith(`No`) || budy.startsWith(`sii`)) {
+const vn = './media/okey.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`GOOOOD`)) {
-const vn = './media/sombare13.mp3'
+if (budy.startsWith(`bien`) || budy.startsWith(`Bien`) || budy.startsWith(`estoy bien`) || budy.startsWith(`bien y tu`) || budy.startsWith(`Estoy bien`) || budy.startsWith(`bien hijo`) || budy.startsWith(`bienn`)) {
+const vn = './media/bien_contestando.mp3'
 conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`Ya me voy a dormir`)) {
 const vn = './media/sombare12.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Calefon`)) {
-const vn = './media/sombare11.mp3'
+if (budy.startsWith(`un favor`) || budy.startsWith(`xf`) || budy.startsWith(`xfavor`) || budy.startsWith(`hazme un favor`) || budy.startsWith(`xfis`) || budy.startsWith(`x favor`) || budy.startsWith(`Xfa`)) {
+const vn = './media/un_favor.mp3'
 conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`Bot de mierda`)) {
 const vn = './media/sombare10.mp3'
