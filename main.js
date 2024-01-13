@@ -613,7 +613,7 @@ conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`buenos dias`) || budy.startsWith(`Buenos dias`) || budy.startsWith(`buenos dìas`)  ) {
 const vn = './media/Buenos-dias-2.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`como estas`) || budy.startsWith(`Como estas`) || budy.startsWith(`còmo estas?`) || budy.startsWith(`como stas`) || budy.startsWith(`que tal`) || budy.startsWith(` que tal como estas`) || budy.startsWith(`como estas?`) || budy.startsWith(`que tal?`) || budy.startsWith(`todo bien?`) || budy.startsWith(`todo bien?`)) {
+if (budy.startsWith(`como estas`) || budy.startsWith(`Como estas`) || budy.startsWith(`Cómo estás?`) || budy.startsWith(`como stas`) || budy.startsWith(`que tal`) || budy.startsWith(` que tal como estas`) || budy.startsWith(`como estas?`) || budy.startsWith(`que tal?`) || budy.startsWith(`todo bien?`) || budy.startsWith(`todo bien?`) | budy.startsWith(`cómo estás?`)) {
 const vn = './media/como_estas.mp3'
 conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`Buenas noches`)) {
