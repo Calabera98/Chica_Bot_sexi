@@ -13,7 +13,7 @@ global.blockList = []
 //---------[ NOMBRE/INFO ]---------
 global.botname = "Chica𝐁𝐨𝐭-𝐌𝐃"
 global.wm = 'C H I C A - B O T - MD 💫'
-global.vs = '1.0.5 (navideñas 🎅)'
+global.vs = '1.0.1 (calabera 🎅)'
 
 //---------[ FECHA/IDIOMAS ]---------
 global.place = 'America/Bogota' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
@@ -64,7 +64,7 @@ global.APIKeys = {
 };
  
 //---------[ STICKERS ]---------
-global.packname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
+global.packname = "Chica𝐁𝐨𝐭-𝐌𝐃"
 global.author = `${vs}`
  
 //---------[ IMAGEN ]---------
