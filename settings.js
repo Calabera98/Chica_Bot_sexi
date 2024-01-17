@@ -74,7 +74,7 @@ global.imagen3 = fs.readFileSync('./media/menu3.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACE ]---------
-global.md = 'https://github.com/Calabera98/Chica_Bot_sexi'
+global.md = 'https://github.com/Calabera98/Si quieres el bot contactate con el creador'
 global.yt = 'https://www.youtube.com/@informaticsecurity5309'
 global.tiktok = 'tiktok.com/---------'
 global.faceb = 'https://facebook.com/groups/------------/'
