@@ -26,7 +26,7 @@ global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]; 
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']; 
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]; 
-global.lolkeysapi = ['GataDios']; // ['BrunoSobrino_2'] 
+global.lolkeysapi = ['Chica𝐁𝐨𝐭-𝐌𝐃']; // ['BrunoSobrino_2'] 
 global.itsrose = ['4b146102c4d500809da9d1ff'];
 global.API = (name, path = '/', query = {}, apikeyqueryname) => (name in global.APIs ? global.APIs[name] : name) + path + (query || apikeyqueryname ? '?' + new URLSearchParams(Object.entries({...query, ...(apikeyqueryname ? {[apikeyqueryname]: global.APIKeys[name in global.APIs ? global.APIs[name] : name]} : {})})) : '');
 
