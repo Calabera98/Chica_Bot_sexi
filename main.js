@@ -619,13 +619,13 @@ conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`buenos dias`) || budy.startsWith(`Buenos dias`) || budy.startsWith(`Buenos días`) || budy.startsWith(`buenos días`)) {
 const vn = './media/Buenos-dias-2.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`como estas`) || budy.startsWith(`Como estas`) || budy.startsWith(`Cómo estás?`) || budy.startsWith(`como stas`) || budy.startsWith(`que tal`) || budy.startsWith(` que tal como estas`) || budy.startsWith(`como estas?`) || budy.startsWith(`que tal?`) || budy.startsWith(`todo bien?`) || budy.startsWith(`todo bien?`) || budy.startsWith(`cómo estás?`) || budy.startsWith(`Cómo estás?`) || budy.startsWith(`Cómo estás ?`) || budy.startsWith(`cómo estás ?`)) {
+if (budy.startsWith(`como estas`) || budy.startsWith(`Como estas`) || budy.startsWith(`Como estás?`) || budy.startsWith(`como stas`) || budy.startsWith(`que tal`) || budy.startsWith(` que tal como estas`) || budy.startsWith(`como estas?`) || budy.startsWith(`que tal?`) || budy.startsWith(`todo bien?`) || budy.startsWith(`todo bien?`) || budy.startsWith(`cómo estás?`) || budy.startsWith(`Cómo estás?`) || budy.startsWith(`Cómo estás ?`) || budy.startsWith(`cómo estás ?`)) {
 const vn = './media/como_estas.mp3'
 conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`buenas noches`) || budy.startsWith(`Buenas noches`) || budy.startsWith(`Buenas Noches`) || budy.startsWith(`Buenas noche`) || budy.startsWith(`buenas noche`)) {
 const vn = './media/buenas noches amiga.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Holaa`) || budy.startsWith(`hola`) || budy.startsWith(`Hola`) || budy.startsWith(`ola`) || budy.startsWith(`holi`) || budy.startsWith(`HOLA`) || budy.startsWith(`Holi`) || budy.startsWith(`hola compañeros`) || budy.startsWith(`Hola compañeros`)) {
+if (budy.startsWith(`Hola`) || budy.startsWith(`hola`) || budy.startsWith(`Holaa`) || budy.startsWith(`ola`) || budy.startsWith(`holi`) || budy.startsWith(`HOLA`) || budy.startsWith(`Holi`) || budy.startsWith(`hola compañeros`) || budy.startsWith(`Hola compañeros`)) {
 const vn = './media/calabera_hola.mp3'
 conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`okey`) || budy.startsWith(`ok`) || budy.startsWith(`Okey`) || budy.startsWith(`okay`) || budy.startsWith(`Ok`) || budy.startsWith(`Okey`) || budy.startsWith(`no`) || budy.startsWith(`si`) || budy.startsWith(`yes`) || budy.startsWith(`Si`) || budy.startsWith(`No`) || budy.startsWith(`sii`)) {
