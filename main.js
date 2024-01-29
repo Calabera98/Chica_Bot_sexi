@@ -646,9 +646,9 @@ conn.sendAudio(m.chat, vn, m)}
 if (budy.startsWith(`Apurate bot`)) {
 const vn = './media/sombare9.mp3'
 conn.sendAudio(m.chat, vn, m)}
-if (budy.startsWith(`Gracias`)|| budy.startsWith(`gracias`)|| budy.startsWith(`graciass`)|| budy.startsWith(`Gracia`)|| budy.startsWith(`gracia')|| budy.startsWith(`GRACIAS`)) {
+if (budy.startsWith(`gracias`) || budy.startsWith(`Gracias`) || budy.startsWith(`graciass`) || budy.startsWith(`Graciass`) || budy.startsWith(`gracia`) || budy.startsWith(`GRACIAS`) || budy.startsWith(`graciasss`)) {
 const vn = './media/okey.mp3'
-conn.sendAudio(m.chat, vn, m)}				
+conn.sendAudio(m.chat, vn, m)}		
 if (budy.startsWith(`No funciona`)) {
 const vn = './media/sombare8.mp3'
 conn.sendAudio(m.chat, vn, m)}
